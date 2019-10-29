@@ -7,7 +7,7 @@ User login and registration system using mysql as database and speech recognitio
 > git clone https://github.com/SuhelMehta9/registration.git
 
 ### Move it to document root of apache
-> sudo mv -r registration /var/www/html
+> sudo mv registration /var/www/html
 
 ### Prepare database
 Make a database with any name and provide its name in config.php and other database credential
