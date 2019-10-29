@@ -4,6 +4,14 @@
 <head>
   <title>Registration system PHP and MySQL</title>
   <link rel="stylesheet" type="text/css" href="../css/style.css">
+  <style>
+	.header{
+		width: 30%;
+	}
+	form, .content{
+		width: 30%;
+    }
+  </style>
 </head>
 <body>
   <div class="header">
