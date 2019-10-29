@@ -2,7 +2,7 @@
 	$config = array(
 		'server' => 'localhost',
 		'username' => 'root',
-		'password' => 'mehta1234',
+		'password' => '',
 		'database' => 'registration',
 	)
 ?>
